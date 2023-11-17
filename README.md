@@ -1,11 +1,13 @@
-### Hi there 👋
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=knuutti&count_private=true&show_icons=true&theme=dark">
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knuutti&show_icons=true&theme=dark&langs_count=10&layout=compact&custom_title=Top%20Languages">
-</p>
+---
+## About me
+I'm a third year Bachelor's student in Computational Engineering. In my studies, I familiarize myself with artificial intelligence and machine learning, the processing of large datasets, modeling uncertainty, as well as computational and statistical methods. 
 
 <!--
 **knuutti/knuutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
