@@ -13,17 +13,24 @@
 ## About me
 I'm a third year Bachelor's student in Computational Engineering. In my studies, I familiarize myself with artificial intelligence and machine learning, the processing of large datasets, modeling uncertainty, as well as computational and statistical methods. 
 
-<!--
-**knuutti/knuutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I minored in Software Engineering and love to do my own projects and participate in programming challenges. I’m experienced in multiple languages, especially Python and MATLAB. I’ve also done some web development projects using Javascript and HTML5. 
 
-Here are some ideas to get you started:
+---
+## My Projects
+Here are some of the bigger projects I've worked with. Some of the projects are done for my studies and some for my own interests.
+### Hobby Projects
+| Title | Description | Repository | Tools |
+| ----- | ----------- | ---------- | ----- |
+| Advent of Code |  | [advent-of-code](https://github.com/knuutti/advent-of-code) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | 
+| Coffee Machine Analyser |  | [coffee-machine-analyser](https://github.com/knuutti/coffee-machine-analyser) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> | 
+| YouTube Video Retimer |  | [retime-tool](https://github.com/knuutti/retime-tool) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | 
+| Custom Bingo Board |  | [slygolds-bingo-board](https://github.com/knuutti/slygolds-bingo-board) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### School Projects
+| Title | Description | Repository | Tools |
+| ----- | ----------- | ---------- | ----- |
+| Data Structures and Algorithms |  | [data-structures-and-algorithms](https://github.com/knuutti/data-structures-and-algorithms) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | 
+| Operating Systems and System Programming |  | [ostep-projects](https://github.com/knuutti/ostep-projects) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | 
+| Speedrun Mobile App |  | [speedrun-mobile-app](https://github.com/knuutti/speedrun-mobile-app) | <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> | 
+| Designing a Database |  | [basics-of-database-systems](https://github.com/knuutti/basics-of-database-systems/tree/main/Project) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> |
+| 2D Web Platformer Game |  | [bar-hopping-simulator](https://github.com/knuutti/bar-hopping-simulator) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://phaser.io/images/img.png" alt="javascript" width="47" height="40"/> | 
