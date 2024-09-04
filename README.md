@@ -11,9 +11,9 @@
 
 ---
 ## About me
-I'm a third year Bachelor's student in Computational Engineering. In my studies, I familiarize myself with artificial intelligence and machine learning, the processing of large datasets, modeling uncertainty, as well as computational and statistical methods. 
+I'm a first year Master's student in Data-Centric Engineering, majoring in Applied Matchematics. In my studies, I familiarize myself with artificial intelligence and machine learning, the processing of large datasets, modeling uncertainty, as well as computational and statistical methods. 
 
-I minored in Software Engineering and love to do my own projects and participate in programming challenges. I’m experienced in multiple languages, especially Python and MATLAB. I’ve also done some web development projects using Javascript and HTML5. 
+I graduated as B.Sc in Computational Engineering in August 2024. I minored in Software Engineering and love to do my own projects and participate in programming challenges. I’m experienced in multiple languages, especially Python and MATLAB. I’ve also done some web development projects using Javascript and HTML5. 
 
 ---
 ## My Projects
