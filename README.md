@@ -14,7 +14,7 @@
 
 ---
 ## About me
-I'm a first year Master's student in Data-Centric Engineering, majoring in Applied Matchematics. In my studies, I familiarize myself with artificial intelligence and machine learning, the processing of large datasets, modeling uncertainty, as well as computational and statistical methods. 
+I'm a second year Master's student in Data-Centric Engineering, majoring in Computer Vision and Pattern Recognition. In my studies, I familiarize myself with artificial intelligence and machine learning, the processing of large datasets, modeling uncertainty, as well as computational and statistical methods. 
 
 I graduated as B.Sc in Computational Engineering in August 2024. I minored in Software Engineering and love to do my own projects and participate in programming challenges. I usually code in Python or MATLAB, but I have also some experience with C, C#, Java, Lua and Javascript.
 
