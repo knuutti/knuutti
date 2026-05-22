@@ -7,7 +7,7 @@
 
 ---
 ## About me
-I'm a second year Master's student in Data-Centric Engineering, majoring in Computer Vision and Pattern Recognition. In my Master's studies I have focused on the following consepts:
+My academical background is M.Sc. in Data-Centric Engineering, majoring in Computer Vision and Pattern Recognition. In my Master's studies I focused on the following consepts:
 - Advanced data analysis, data preprocessing, machine learning and pattern recognition
 - Image preprocessing, digital imaging, image analysis, computer vision
 - Bayesian statistics, continuous and statistical parameter estimation numerical methods for PDEs, 
