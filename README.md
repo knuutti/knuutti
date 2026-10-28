@@ -1,6 +1,4 @@
 ## About me
-I'm interested in applying machine learning and computer vision to environmental monitoring and sustainability, and I'm currently learning remote sensing with Sentinel-1 and Sentinel-2 data.
-
 My academic background is an M.Sc. in Data-Centric Engineering, majoring in Computer Vision and Pattern Recognition. In my Master's studies I focused on the following concepts:
 - Advanced data analysis, data preprocessing, machine learning and pattern recognition
 - Image preprocessing, digital imaging, image analysis, computer vision
