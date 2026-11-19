@@ -12,9 +12,9 @@ I'm enthusiastic about data science projects; I love to play with data and find 
 ## My Projects
 Here are some mentionable projects I've worked on. Some were done for my studies, and some out of my own interest. The definitions for the AI usage labels can be found [here](https://github.com/knuutti/knuutti#ai-usage-labels).
 ### Data Science & Computer Vision Projects
-<img src="https://github.com/knuutti/3d-computer-vision-project/raw/main/assets/result.png" alt="Example image for element labelling in the 3D Computer Vision for robot guiding project." width="600"/>
+<!-- <img src="https://github.com/knuutti/3d-computer-vision-project/raw/main/assets/result.png" alt="Example image for element labelling in the 3D Computer Vision for robot guiding project." width="600"/>
 
-*Element detection and location estimation for the [3D Computer Vision](https://github.com/knuutti/3d-computer-vision-project) project.*
+*Element detection and location estimation for the [3D Computer Vision](https://github.com/knuutti/3d-computer-vision-project) project.* -->
 
 | Title | Description | Repository | Tools | AI Usage |
 | ----- | ----------- | ---------- | ----- | :-: |
