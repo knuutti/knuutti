@@ -42,7 +42,9 @@ Some hobby projects I've worked on that are not data science related. My hobby p
 ## AI usage labels
 Each project is labelled by how much generative AI was used to write its code. I use mainly Claude Code as my AI-assistant, occasionally also GitHub Copilot for inline suggestions and small code snippets.
 
-Projects with AI Free or AI Minimal labels are projects where my main intention is to learn myself, and only use AI for quick debugging or writing documentation. Projects with AI Assisted or AI Generated labels are projects where the end product is the intention: for these projects I typically don't learn as much because AI does a lot of heavy lifting. 
+Projects with AI Free or AI Minimal labels are projects where my main intention is to learn myself, and only use AI for quick debugging or writing documentation. 
+
+Projects with AI Assisted or AI Generated labels are projects where the end product is the intention: either a tool I need for other projects or if I just want a quick PoC written by AI. For these projects I typically don't learn as much (if any) because AI does a lot of heavy lifting, and I personally only learn well if I'm the one writing the code.
 
 | | Label | Meaning |
 |:-:|-------|---------|
